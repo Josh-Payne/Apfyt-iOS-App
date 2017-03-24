@@ -7,7 +7,7 @@
 //
 
 import XCTest
-@testable import Apfyt
+//@testable import Apfyt
 
 class ApfytTests: XCTestCase {
     
